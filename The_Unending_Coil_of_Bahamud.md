@@ -1,11 +1,13 @@
-# ツインタニアフェーズ
+# The Unending Coil of Bahamud
+
+## ツインタニアフェーズ
 
 | TTS | RegularExpression | Category |
 | --- | --- | --- |
 | `次は、ツイスター。` | `ツインタニアは「ツイスター」の構え。` | `the Unending Coil of Bahamut (Ultimate)` |
 | `デスセンテンス` | `ツインタニアは「デスセンテンス」の構え。` | `the Unending Coil of Bahamut (Ultimate)` |
 
-# ネールフェーズ
+## ネールフェーズ
 
 | TTS | RegularExpression | Category |
 | --- | --- | --- |
@@ -18,7 +20,7 @@
 | `次は、MTから離れる、その後、頭割り` | `超新星よ、輝きを増せ！ 紅月下の赤熱せし地を照らせ！` | `the Unending Coil of Bahamut (Ultimate)` |
 | `次は、散開、その後、MTから離れる` | `超新星よ、輝きを増せ！ 星降りの夜に、紅月を称えよ！` | `the Unending Coil of Bahamut (Ultimate)` |
 
-# バハムートプライム
+## バハムートプライム
 
 | TTS | RegularExpression | Category |
 | --- | --- | --- |
@@ -26,4 +28,4 @@
 | `ネールに近づく、その後、散開、散開` | `我、月より舞い降りて 星降りの夜を招かん！` | `the Unending Coil of Bahamut (Ultimate)` |
 | `小散開、ネールに近づく、散開` | `我、舞い降りて月を仰ぎ 星降りの夜を招かん！` | `the Unending Coil of Bahamut (Ultimate)` |
 
-# 2体フェーズ
+## 2体フェーズ
