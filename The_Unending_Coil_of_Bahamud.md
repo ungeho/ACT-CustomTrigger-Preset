@@ -41,3 +41,10 @@
 | `小散開、ネールに近づく、散開` | `我、舞い降りて月を仰ぎ 星降りの夜を招かん！` | `the Unending Coil of Bahamut (Ultimate)` |
 
 ## 2体フェーズ
+
+| TTS | RegularExpression | Category |
+| --- | --- | --- |
+| `近づく、離れる、小散開` | `我、月より鉄を備え 舞い降りん！` | `the Unending Coil of Bahamut (Ultimate)` |
+| `近づく、小散開、頭割り` | `我、月より舞い降りて 赤熱せし地を歩まん！` | `the Unending Coil of Bahamut (Ultimate)` |
+| `離れる、頭割り、小散開` | `鉄よ、赤熱せよ！ 舞い降りし我が刃となれ！` | `the Unending Coil of Bahamut (Ultimate)` |
+| `離れる、小散開、頭割り` | `鉄よ、舞い降りし 我の刃となり赤熱せよ！` | `the Unending Coil of Bahamut (Ultimate)` |
