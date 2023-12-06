@@ -1,6 +1,6 @@
 # The Unending Coil of Bahamud
 
-***[重要]***
+*** %重要:%{rgb(0 ,255 ,255)} ***
 
 ## ツインタニアフェーズ
 
