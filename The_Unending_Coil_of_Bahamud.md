@@ -1,5 +1,7 @@
 # The Unending Coil of Bahamud
 
+***[重要]***
+
 ## ツインタニアフェーズ
 
 | TTS | RegularExpression | Category |
