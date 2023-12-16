@@ -18,29 +18,37 @@
     (?<name>[A-Z][a-z]*?)(|Aegis|Atomos|Carbuncle|Garuda|Gungnir|Kujata|Tonberry|Typhon|Alexander|Bahamut|Durandal|Fenrir|Ifrit|Ridill|Tiamat|Ultima|Anima|Asura|Chocobo|Hades|Ixion|Masamune|Pandaemonium|Titan|Belias|Mandragora|Ramuh|Shinryu|Unicorn|Valefor|Yojimbo|Zeromus)の「挑発」$
     ```
 
-    * TTS
+  * TTS
 
-    ```${name}の挑発```
+  ```
+  ${name}の挑発
+  ```
 
-    * Category
+  * Category
 
-    ```Tank```
+  ```
+  Tank
+  ```
 
 * フルネーム（鯖名を読み上げない）
 
   * RegularExpression
 
-    ```
-    (?<name>[A-Z][a-z]*? [A-Z][a-z]*?)(|Aegis|Atomos|Carbuncle|Garuda|Gungnir|Kujata|Tonberry|Typhon|Alexander|Bahamut|Durandal|Fenrir|Ifrit|Ridill|Tiamat|Ultima|Anima|Asura|Chocobo|Hades|Ixion|Masamune|Pandaemonium|Titan|Belias|Mandragora|Ramuh|Shinryu|Unicorn|Valefor|Yojimbo|Zeromus)の「挑発」$
-    ```
+  ```
+  (?<name>[A-Z][a-z]*? [A-Z][a-z]*?)(|Aegis|Atomos|Carbuncle|Garuda|Gungnir|Kujata|Tonberry|Typhon|Alexander|Bahamut|Durandal|Fenrir|Ifrit|Ridill|Tiamat|Ultima|Anima|Asura|Chocobo|Hades|Ixion|Masamune|Pandaemonium|Titan|Belias|Mandragora|Ramuh|Shinryu|Unicorn|Valefor|Yojimbo|Zeromus)の「挑発」$
+  ```
 
-    * TTS
+  * TTS
 
-    ```${name}の挑発```
+  ```
+  ${name}の挑発
+  ```
 
-    * Category
+  * Category
 
-    ```Tank```
+  ```
+  Tank
+  ```
 
 * ファミリーネームのみ（鯖名を読み上げる）
 
@@ -61,5 +69,3 @@
 | `${name}のシャーク` | `(?<name>\w*?)の「シャーク」$` | `Tank` |
 
 
-<!-- 
-(?<name>\w*\w*?)(|Aegis|Atomos|Carbuncle|Garuda|Gungnir|Kujata|Tonberry|Typhon|Alexander|Bahamut|Durandal|Fenrir|Ifrit|Ridill|Tiamat|Ultima|Anima|Asura|Chocobo|Hades|Ixion|Masamune|Pandaemonium|Titan|Belias|Mandragora|Ramuh|Shinryu|Unicorn|Valefor|Yojimbo|Zeromus)の「挑発」$ -->
